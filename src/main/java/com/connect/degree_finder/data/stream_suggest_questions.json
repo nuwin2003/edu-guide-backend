@@ -1,0 +1,40 @@
+{
+  "streamSuggestionQuestions": [
+    {
+      "questionId": 1,
+      "questionText": "Are you fascinated by scientific theories and experiments?",
+      "options": ["Y", "N"],
+      "category": "Science"
+    },
+    {
+      "questionId": 2,
+      "questionText": "Do you enjoy subjects like biology, chemistry, or physics?",
+      "options": ["Y", "N"],
+      "category": "Science"
+    },
+    {
+      "questionId": 3,
+      "questionText": "Do you find economics and understanding how businesses operate interesting?",
+      "options": ["Y", "N"],
+      "category": "Commerce"
+    },
+    {
+      "questionId": 4,
+      "questionText": "Are you curious about finance, accounting, or stock markets?",
+      "options": ["Y", "N"],
+      "category": "Commerce"
+    },
+    {
+      "questionId": 5,
+      "questionText": "Are you inclined toward subjects like history, literature, or sociology?",
+      "options": ["Y", "N"],
+      "category": "Arts"
+    },
+    {
+      "questionId": 6,
+      "questionText": "Do you enjoy creative writing, poetry, or analyzing literature?",
+      "options": ["Y", "N"],
+      "category": "Arts"
+    }
+  ]
+}

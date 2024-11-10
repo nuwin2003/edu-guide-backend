@@ -1,0 +1,40 @@
+{
+  "degreeSuggestionQuestions": [
+    {
+      "questionId": 1,
+      "questionText": "Do you enjoy solving complex puzzles or logical problems?",
+      "options": ["Y", "N"],
+      "category": "Logic"
+    },
+    {
+      "questionId": 2,
+      "questionText": "Are you interested in algorithms and coding challenges?",
+      "options": ["Y", "N"],
+      "category": "Logic"
+    },
+    {
+      "questionId": 3,
+      "questionText": "Do you find it easy to work with numbers and mathematical calculations?",
+      "options": ["Y", "N"],
+      "category": "Math"
+    },
+    {
+      "questionId": 4,
+      "questionText": "Are you comfortable with advanced topics in mathematics, like calculus or probability?",
+      "options": ["Y", "N"],
+      "category": "Math"
+    },
+    {
+      "questionId": 5,
+      "questionText": "Do you have a passion for drawing, painting, or other forms of visual art?",
+      "options": ["Y", "N"],
+      "category": "Arts"
+    },
+    {
+      "questionId": 6,
+      "questionText": "Are you interested in designing or creating digital art or graphics?",
+      "options": ["Y", "N"],
+      "category": "Arts"
+    }
+  ]
+}
